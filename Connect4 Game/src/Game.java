@@ -1,4 +1,3 @@
-//Yair Bar 111928259
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Game {
